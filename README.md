@@ -22,7 +22,7 @@ A Python tool for migrating products between Shopify stores, including variants,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/shopify-product-migration.git
+git clone https://github.com/CloudDev777/Shopify_Product_Migration.git
 cd shopify-product-migration
 ```
 
@@ -169,8 +169,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Support
-
-If you encounter any issues or have questions:
-1. Check the [issue tracker](https://github.com/yourusername/shopify-product-migration/issues)
-2. Create a new issue with a detailed description of your problem
